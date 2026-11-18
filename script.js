@@ -10,4 +10,4 @@ button.addEventListener("click", () => {
     numOfClicks += 1;
   }
   counter.textContent = numOfClicks;
-});
+}); 
